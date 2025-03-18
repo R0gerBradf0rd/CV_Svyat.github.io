@@ -1,0 +1,7 @@
+baseURL = "https://R0gerBradf0rd.github.io/CV_Svyat.github.io.com/"
+languageCode = "ru-ru"
+title = "CV Иванова Ивановича"
+theme = "beautifulhugo"
+
+[params]
+  description = "CV студента ПС 43 Иванова Ивановича"
